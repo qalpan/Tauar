@@ -12,7 +12,7 @@ RewriteRule (.*) %1 [R=301,L]
 
 RewriteRule ^adamdar$ index.html [QSA,L]
 RewriteRule ^aiaⱪ-kýiýmder$ aiaⱪ-kýiýmder.html [QSA,L]
-RewriteRule ^garyh-tylsym-alem$ garyh-tylsym-alem.html [QSA,L]
+RewriteRule ^jixazdar$ jixazdar.html [QSA,L]
 RewriteRule ^gylder$ gylder.html [QSA,L]
 RewriteRule ^osimdikter$ osimdikter.html [QSA,L]
 RewriteRule ^kalyptalgan-keskinder$ kalyptalgan-keskinder.html [QSA,L]
