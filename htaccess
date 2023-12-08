@@ -10,8 +10,27 @@ RewriteRule ^.*$ $0.html [L,QSA]
 RewriteCond %{THE_REQUEST} ([^\s]*)\.html(\?[^\s]*)?
 RewriteRule (.*) %1 [R=301,L]
 
-
-RewriteRule ^jixazdar$ jixazdar.html [QSA,L]
+RewriteRule ^adamdar$ adamdar.html [QSA,L]
+RewriteRule ^bolme-gimarat-jobalar$ bolme-gimarat-jobalar.html [QSA,L]
+RewriteRule ^garyh-tylsym-alem$ garyh-tylsym-alem.html [QSA,L]
+RewriteRule ^gylder$ gylder.html [QSA,L]
+RewriteRule ^osimdikter$ osimdikter.html [QSA,L]
+RewriteRule ^kalyptalgan-keskinder$ kalyptalgan-keskinder.html [QSA,L]
+RewriteRule ^koldanys-zattary$ koldanys-zattary.html [QSA,L]
+RewriteRule ^januarlar$ januarlar.html [QSA,L]
+RewriteRule ^oner-bilim-sport$ oner-bilim-sport.html [QSA,L]
+RewriteRule ^art-education-sports$ art-education-sports.html [QSA,L]
+RewriteRule ^san-ylgileri$ san-ylgileri.html [QSA,L]
+RewriteRule ^tabiigat$ tabiigat.html [QSA,L]
+RewriteRule ^pater$ pater.html [QSA,L]
+RewriteRule ^elmeken$ elmeken.html [QSA,L]
+RewriteRule ^ondyk-sagat$ ondyk-sagat.html [QSA,L]
+RewriteRule ^jer-telim$ jer-telim.html [QSA,L]
+RewriteRule ^yi$ yi.html [QSA,L]
+RewriteRule ^komekhi$ komekhi.html [QSA,L]
+RewriteRule ^bilim-kyzymet$ bilim-kyzymet.html [QSA,L]
+RewriteRule ^jihaz-kyzymet$ jihaz-kyzymet.html [QSA,L]
+RewriteRule ^oiyn$ oiyn.html [QSA,L]
 
 AddType image/svg+xml svg svgz
 AddEncoding gzip svgz
