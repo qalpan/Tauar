@@ -11,7 +11,7 @@ RewriteCond %{THE_REQUEST} ([^\s]*)\.html(\?[^\s]*)?
 RewriteRule (.*) %1 [R=301,L]
 
 RewriteRule ^aiaⱪ-kýiýmder$ aiaⱪ-kýiýmder.html [QSA,L]
-RewriteRule ^bolme-gimarat-jobalar$ bolme-gimarat-jobalar.html [QSA,L]
+RewriteRule ^jixazdar$ jixazdar.html [QSA,L]
 RewriteRule ^garyh-tylsym-alem$ garyh-tylsym-alem.html [QSA,L]
 RewriteRule ^gylder$ gylder.html [QSA,L]
 RewriteRule ^osimdikter$ osimdikter.html [QSA,L]
