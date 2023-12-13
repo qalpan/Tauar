@@ -8,7 +8,7 @@
    version="1.1"
    id="svg17361"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="taңba-tauar.svg"
+   sodipodi:docname="taꞑba-tauar.svg"
    inkscape:export-filename="/home/m/Жүктемелер/taңba-tauar.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.108143"
-     inkscape:cx="97.485861"
-     inkscape:cy="69.655739"
+     inkscape:zoom="2.0526726"
+     inkscape:cx="87.203385"
+     inkscape:cy="69.42169"
      inkscape:window-width="1600"
      inkscape:window-height="848"
      inkscape:window-x="0"
@@ -49,7 +49,7 @@
        id="path1179-4"
        inkscape:connector-curvature="0" />
     <path
-       style="display:inline;fill:none;stroke:#6b470f;stroke-width:2.23613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#6b470f;stroke-width:2.23613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.5"
        d="m 1.5192496,14.31082 h 8.7768074 c 3.3008,0 3.205298,-2.636287 5.178082,-2.636287"
        id="path5828-3-04"
        inkscape:connector-curvature="0"
@@ -71,5 +71,22 @@
        id="image10"
        x="21.491907"
        y="0.25833869" />
+    <g
+       id="g838"
+       transform="translate(72.315067,3.7897086)">
+      <path
+         class="fil2"
+         d="m -19.843756,6.2413696 h 3.665834 v 4.3869794 h -3.665834 z M -21.73877,12.459261 H -8.3735063 V 4.9833704 L -15.056136,-1.078274 -21.73877,4.9833704 Z"
+         id="path11"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill:#6b470f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.400637;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+      <path
+         class="fil2"
+         d="m -26.017576,11.061037 c 4.242748,-0.07213 0.488777,-1.1778721 1.742774,-1.9310721 1.718733,-1.0376512 1.646618,-1.870976 1.486362,-1.9991808 -4.006372,-3.1730457 -2.095332,-5.8132473 -2.095332,-9.5431797 0,-4.042432 -1.882995,-3.5736864 -2.21152,-1.9390848 -0.825312,4.09451204 -2.800454,2.7443648 -1.518416,5.7331196 0.873392,6.1217369 -2.175459,3.7699968 -2.379785,5.4727064 -0.30448,2.4959713 1.450307,3.5336224 3.377373,3.9703174 v 1.670656 h 1.60255 v -1.430276 z"
+         id="path13"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill:#6b470f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.400637;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         inkscape:label="path13" />
+    </g>
   </g>
 </svg>
