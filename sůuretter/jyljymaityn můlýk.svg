@@ -6666,7 +6666,7 @@ rkJggg==
        id="image1064"
        x="0"
        y="0"
-       style="display:inline" />
+       style="display:inline;opacity:0.5" />
     <path
        id="rect1101-5"
        style="opacity:1;fill:#ffffff;stroke:none;stroke-width:3.07099;stroke-linecap:round"
